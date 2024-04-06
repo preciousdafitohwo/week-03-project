@@ -8,6 +8,6 @@ User Stories
 
 Requirements met and goals achieved for this project
 
-1) 
-2) 
-3) 
+1) i was able to set the thumbnail and the large container displaying a larger image on click
+2) i wasnt able to make the buttons functional by adding a suitable event listener - which would allow navigation by keyboard or mouse click
+3) since there was hardly any actually html elements in my html file, i struggled on what else i could do to increase accessibility, and i culdnt give my images tab indexes as they were imported from my js file.
